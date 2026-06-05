@@ -1,4 +1,7 @@
 
+<h1 align="center">👋 Hi there! I'm Sahil Singh.</h1>
+<h3 align="center">Full Stack Developer || JAVA </h3>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshaltanwar9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilsinghtanwar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahilsinghtanwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahiltanwar103) 
 
